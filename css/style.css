@@ -199,7 +199,7 @@
 }
 
 
-.carousel-item 
+.carousel-item {
     position: relative;
 }
 
@@ -500,6 +500,7 @@
 
 
 /*** Footer Start ***/
+
 .footer .footer-item .btn-link {
     line-height: 35px;
     color: rgba(255, 255, 255, .5);
